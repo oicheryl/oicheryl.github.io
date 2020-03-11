@@ -28,6 +28,8 @@ First up, Richard Simon from World Wide Technology told us about the [Cloud Stat
 * Organisations that are looking to migrate or have migrated will benefit from a Cloud Performance and Hosting Candidacy, to optimise their cloud footprint, as well as identifying the low-hanging fruit workloads.
 * Selecting a partner that is impartial and will take an organisation's requirements from idea to outcome - not just offer recommendations - is a key differentiator, when selecting a cloud partner for your journey.
 
+Check out [his slides](https://www.dropbox.com/s/g12hpsj0xny3cr9/CloudStateOfPlay_Presentation_CloudNativeMeetup_RichardSimon.pdf?dl=0)
+
 ![Pradeep Bhadani](/images/PradeepBhadani.jpg)
 
 Next up, Pradeep Bhadani from Cloud Native Technologies talked about how to [Build and Test GCP Infrastructure using Terraform Modules](https://youtu.be/c5j4wbRvXIk?t=2898). He concluded that:
