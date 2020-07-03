@@ -20,13 +20,13 @@ We are immensely grateful to [Tecknuovo](https://www.tecknuovo.com/), [Humio](ht
 
 ### Overview
 
-Kicking off three great talks was Josh Armitage from Contino, with Serverless vs Kubernetes - The Great Cloud Native Debate. He mentioned in his takeaways:
+Kicking off three great talks was Josh Armitage from Contino, with Serverless vs Kubernetes - The Great Cloud Native Debate (starting at [38:28](https://youtu.be/YzsKp6Je8eY?t=2308)). He mentioned in his takeaways:
 
 * When working on greenfield systems, optimise for a tight Build -> Measure -> Learn loop, aka lean startup methodologies, over engineering for potential scale
 * Activities fall into 3 buckets, value generating, necessary waste and unnecessary waste, by bucketing what we do we can maximimise, minimise and eliminate as appropriate
 * Going serverless first is a good rule of thumb, especially for web apps, if you have strict technical or regulatory requirements you may need to look at Kubernetes
 
-Next up was Juergen Etzlstorfer from Dynatrace who told us about Overcoming scalability issues in your Prometheus ecosystem. His takeaways are:
+Next up was Juergen Etzlstorfer from Dynatrace who told us about Overcoming scalability issues in your Prometheus ecosystem (starting at [1:13:56](https://youtu.be/YzsKp6Je8eY?t=4436)). His takeaways are:
 
 * Overcome the challenge of complex onboarding and ad-hoc configuration of applications by applying a GitOps approach to stay in control.
 * Use code generators instead of manually creating configuration files and dashboards. Significantly reduce the time you spend and errors you make when writing configuration files.
@@ -36,7 +36,7 @@ His slides can be found [here](https://docs.google.com/presentation/d/1R8qIlM0iX
 
 ![](/images/2020-07-01-pic2.PNG)
 
-Finally, after a 15 minute break we had Alicja Kucharczyk from Microsoft discussing Architecting petabyte-scale analytics by scaling out Postgres on Azure with Citus. Her takeaways explained that:
+Finally, after a 15 minute break we had Alicja Kucharczyk from Microsoft discussing Architecting petabyte-scale analytics by scaling out Postgres on Azure with Citus (starting at [1:59:11](https://youtu.be/YzsKp6Je8eY?t=7151)). Her takeaways explained that:
 
 * Citus makes it simple to add nodes and scale out compute, memory, and disk. So you no longer have to worry about how to scale and grow with PostgreSQL.
 * By parallelizing SQL across multiple nodes, Citus delivers insanely fast performance. Even with real-time data ingest & billions of rows of data.
