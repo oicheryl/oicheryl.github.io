@@ -5,6 +5,7 @@ description: "Cheryl Hung discusses why companies are switching to Arm and tips 
 image: /images/2023-02-23-crossing-the-chasm-with-multi-arch.png
 location: Amsterdam, Netherlands
 slides: //www.slideshare.net/slideshow/embed_code/key/o7NHG53bUaHzdA
+video: https://www.youtube.com/embed/C55GXMyJ7QY
 tags:
   - "2023"
   - Images
