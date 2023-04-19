@@ -10,6 +10,7 @@ tags:
   - "2023"
   - Images
   - Slides
+  - Video
 ---
 
 Thanks Kubernetes Community Days Amsterdam for inviting me to deliver this keynote on why companies are switching to Arm and tips for multi-arch cloud native infrastructure.
