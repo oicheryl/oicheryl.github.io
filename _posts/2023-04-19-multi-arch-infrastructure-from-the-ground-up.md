@@ -5,10 +5,12 @@ description: "Cheryl Hung discusses why companies are switching to Arm and tips 
 image: https://pbs.twimg.com/media/FuFRiLNWYAQPnkP?format=jpg&name=medium
 location: Amsterdam, Netherlands
 slides: //www.slideshare.net/slideshow/embed_code/key/bZHYONwQPPMZVZ
+video: https://www.youtube.com/embed/VeN9x9eza7I
 tags:
   - "2023"
   - Images
   - Slides
+  - Video
 ---
 
 Love to see a full house at KubeCon CloudNativeCon EU in Amsterdam! Such a great crowd and great questions too.
