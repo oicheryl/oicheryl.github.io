@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Cloud Native London June 2023: JFrog, Styra, and VirtusLab"
 description: "Speakers from JFrog, Styra, and VirtusLab join us at the Cloud Native London meetup June 2023, hosted by Cheryl Hung, Senior Director, Ecosystem at Arm"
