@@ -1,4 +1,4 @@
-me---
+---
 layout: post
 title: "Creating Open Source, Fast and Slow, OpenUK"
 description: "Cheryl Hung hosts a fireside chat with Alex Chircop about open source and community."
