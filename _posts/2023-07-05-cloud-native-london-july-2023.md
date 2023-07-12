@@ -3,7 +3,7 @@ layout: post
 title: "Cloud Native London July 2023: Solo.io, UPSIDER, Inc., and Grafana Labs"
 description: "Speakers from Solo.io, UPSIDER, Inc., and Grafana Labs join us at the Cloud Native London meetup June 2023, hosted by Cheryl Hung, Senior Director, Ecosystem at Arm"
 location: London, UK
-image: /images/2023-07-05-cloud-native-london-july-2023.jpeg
+image: /images/2023-07-05-cloud-native-london-july-2023.jpg
 video: https://www.youtube.com/embed/HfctjFMrbwg
 tags:
   - Photos
@@ -14,7 +14,7 @@ tags:
 
 Three fantastic speakers from Solo.io, UPSIDER, Inc., and Grafana Labs joined us at the July Cloud Native London meetup for our 6th anniversary! We were at the Just Eat Takeaway offices and also via the YouTube/Twitch livestreams. 
 
-![](/images/2023-07-05-cloud-native-london-july-2023_bunting.jpeg)
+![](/images/2023-07-05-cloud-native-london-july-2023_bunting.jpg)
 
 We are immensely grateful to [Sysdig](https://sysdig.com/) and [Grafana Labs](https://grafana.com/) for their generous support and sponsorship.
 
