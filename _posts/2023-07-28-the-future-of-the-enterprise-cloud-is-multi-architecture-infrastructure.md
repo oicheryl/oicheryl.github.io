@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Future of the Enterprise Cloud Is Multi-Architecture Infrastructure: Article at The New Stack"
+title: "The Future of the Enterprise Cloud Is Multi-Architecture Infrastructure: The New Stack"
 description: "Cheryl Hung looks at how to run workloads on the best hardware for the user’s price-performance needs."
 image: https://cdn.thenewstack.io/media/2023/07/36c9e8fb-abstract-gc9a1c3b52_1280-1024x654.jpg
 tags:
