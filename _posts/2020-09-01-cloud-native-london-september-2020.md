@@ -12,7 +12,7 @@ tags:
   - "2020"
 ---
 
-We were back with three fantastic speakers from Redis Labs, Suade Labs, and Oracle at our August Cloud Native London virtual meetup. Joining us on Zoom and the YouTube livestream to welcome them were members from all over the world.
+We were back with three fantastic speakers from Redis, Suade Labs, and Oracle at our August Cloud Native London virtual meetup. Joining us on Zoom and the YouTube livestream to welcome them were members from all over the world.
 
 We are immensely grateful to [Tecknuovo](https://www.tecknuovo.com/), [Humio](https://humio.com/), [xMatters](https://www.xmatters.com/), [Palo Alto Networks](https://www.paloaltonetworks.com/), [Redhat](https://www.redhat.com/en), [Redis](https://redis.com/), and the [European Cloud Conference](https://europeancloudconference.com/) for your support and sponsorship.
 
