@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating Open Source, Fast and Slow, OpenUK"
+title: "Creating Open Source, Fast and Slow: Fireside chat at the OpenUK meetup"
 description: "Cheryl Hung hosts a fireside chat with Alex Chircop about open source and community."
 image: /images/2023-06-22-creating-open-source-fast-and-slow-openuk.jpeg
 location: London, UK
