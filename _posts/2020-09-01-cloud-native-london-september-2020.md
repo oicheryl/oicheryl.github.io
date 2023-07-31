@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cloud Native London Sep 2020: Redis Labs, Suade Labs, and Oracle"
-description: "join us for three fantastic talks by speakers from Redis Labs, Suade Labs, and Oracle at the Cloud Native London meetup September 2020, hosted by Cheryl Hung, VP Ecosystem at CNCF"
+title: "Cloud Native London Sep 2020: Redis, Suade Labs, and Oracle"
+description: "join us for three fantastic talks by speakers from Redis, Suade Labs, and Oracle at the Cloud Native London meetup September 2020, hosted by Cheryl Hung, VP Ecosystem at CNCF"
 location: London, UK
 image: /images/2020-09-01-cloud-native-london-september-2020.jpg
 video: https://www.youtube.com/embed/uf8PXKOb_gw
@@ -14,7 +14,7 @@ tags:
 
 We were back with three fantastic speakers from Redis Labs, Suade Labs, and Oracle at our August Cloud Native London virtual meetup. Joining us on Zoom and the YouTube livestream to welcome them were members from all over the world.
 
-We are immensely grateful to [Tecknuovo](https://www.tecknuovo.com/), [Humio](https://humio.com/), [xMatters](https://www.xmatters.com/), [Palo Alto Networks](https://www.paloaltonetworks.com/), [Redhat](https://www.redhat.com/en), [Redis Labs](https://redislabs.com/), and the [European Cloud Conference](https://europeancloudconference.com/) for your support and sponsorship.
+We are immensely grateful to [Tecknuovo](https://www.tecknuovo.com/), [Humio](https://humio.com/), [xMatters](https://www.xmatters.com/), [Palo Alto Networks](https://www.paloaltonetworks.com/), [Redhat](https://www.redhat.com/en), [Redis](https://redis.com/), and the [European Cloud Conference](https://europeancloudconference.com/) for your support and sponsorship.
 
 ### Offer for Cloud Native London Meetup members:
 The [European Cloud Conference](https://europeancloudconference.com/) [Microsoft Azure Virtual Tutorial Series](https://europeancloudconference.com/virtual-full-day-tutorial-series/) takes place online from 6-9 and 20-23 October.
