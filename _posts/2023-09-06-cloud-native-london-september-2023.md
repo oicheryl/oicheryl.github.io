@@ -14,7 +14,7 @@ tags:
 
 Three great speakers from Styra, Sysdig, and Akamai joined us at the September Cloud Native London meetup at SurrealDB’s offices based at Huckletree Oxford Circus, as well as via the YouTube/Twitch livestreams. 
 
-We are immensely grateful to [Sysdig](https://sysdig.com/), [Styra](https://www.styra.com/), and especially [SurrealDB](https://surrealdb.com/) for their generous support and sponsorship.
+We are immensely grateful to [Sysdig](https://sysdig.com/), [Styra](https://www.styra.com/), [Mattermost](https://mattermost.com/), and especially [SurrealDB](https://surrealdb.com/) for their generous support and sponsorship.
 
 ### Overview
 
