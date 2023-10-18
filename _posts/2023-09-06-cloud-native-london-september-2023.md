@@ -3,7 +3,7 @@ layout: post
 title: "Cloud Native London September 2023: Styra, Sysdig, and Akamai"
 description: "Speakers from Styra, Sysdig, and Akamai join us at the Cloud Native London meetup September 2023, hosted by Stephen Perera, Principal DevOps Engineer at Just Eat Takeaway"
 location: London, UK
-image: /images/2023-09-06-cloud-native-london-september-2023.jpeg
+image: /images/2023-09-06-cloud-native-london-september-2023.jpg
 video: https://www.youtube.com/embed/S6eQrZ-K4x8
 tags:
   - Photos
@@ -38,7 +38,7 @@ Finally we had Alex Chircop from Akamai wrapping up our evening with a discussio
 * Take advantage of new operating models using K8s, operators and cloud native storage to help increase the number of use cases and application that can benefit from your investment in cloud native.
 
 And of course, our usual group photo!
-![](/images/2023-09-06-cloud-native-london-september-2023.jpeg)
+![](/images/2023-09-06-cloud-native-london-september-2023.jpg)
 
 ## Cloud Native London October
 
