@@ -41,6 +41,8 @@ And wrapping up our evening was Richard Tweed discussing [Using, and mis-using K
 * How Kubernetes Dynamic Admission Control can take down a cluster.
 * How the new Validating Admission Policies will work.
 
+Check out [his slides](https://docs.google.com/presentation/d/1Z40UEfepq1rn9HjPbPpqjfX_KyHoA5KpqluA6vwTI-Y/edit?usp=sharing) - due to a technical issue, they were not available during the event.
+
 And of course, our usual group photo!
 ![](/images/2024-03-06-cloud-native-london-march-2024.jpeg)
 
