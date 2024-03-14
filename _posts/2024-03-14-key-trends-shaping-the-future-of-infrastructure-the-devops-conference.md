@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Key Trends Shaping the Future of Infrastructure - The DEVOPS Confference"
+title: "Key Trends Shaping the Future of Infrastructure - The DEVOPS Conference"
 description: "Cheryl Hung, Sr Director, Infrastructure Ecosystem at Arm, presents at the DevOps Conference, London"
 location: London UK
 image: /images/2024-03-14-key-trends-shaping-the-future-of-infrastructure-the-devops-conference.jpg
