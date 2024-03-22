@@ -5,8 +5,8 @@ description: "Cheryl Hung, Sr Director, Infrastructure Ecosystem at Arm, present
 location: London UK
 image: /images/2024-03-14-key-trends-shaping-the-future-of-infrastructure-the-devops-conference-7.jpg
 hide_image: true
-video: https://www.youtube.com/embed/f02PVL62ebI
-slides: //www.slideshare.net/slideshow/embed_code/key/KFqFM07DGfo
+video: https://www.youtube.com/embed/KFqFM07DGfo
+slides: //www.slideshare.net/slideshow/embed_code/key/iIgSlUOqtVRXIF
 tags:
   - Slides
   - "2024"
