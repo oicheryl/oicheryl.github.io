@@ -8,7 +8,7 @@ tags:
   - "2024"
 ---
 
-I joined Marc and Darren to discuss moving to data centers, software support, GitOps, WebAssembly, and open-source licensing in tech.
+I joined Marc and Darren on DevOps Sauna to discuss moving to data centers, software support, GitOps, WebAssembly, and open-source licensing in tech.
 
 >Marc (0:00:21): Welcome to DevOps Sauna Season 4, the podcast where technology meets culture and security is the bridge that connects them. Welcome back to the sauna. I'm thrilled today to be doing another post game from the DevOps Conference Global that we had in London in March. And we have one of our lightning talk speakers today, Cheryl Hung, the Senior Director of Infrastructure and Ecosystem at Arm and founder of Cloud Native London. Hello, Cheryl. Welcome back to the sauna.
 >
