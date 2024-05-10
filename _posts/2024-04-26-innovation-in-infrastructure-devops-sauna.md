@@ -2,7 +2,7 @@
 layout: post
 title: "Innovation in infrastructure - Podcast with DevOps Sauna"
 description: "Cheryl Hung, Sr Director Ecosystem at Arm, chats with Marc and Darren to discuss moving to data centers, software support, GitOps, WebAssembly, and open-source licensing in tech."
-image: /images/images/2024-04-26-innovation-in-infrastructure-devops-sauna.png
+image: /images/2024-04-26-innovation-in-infrastructure-devops-sauna.png
 tags:
   - Podcast
   - "2024"
