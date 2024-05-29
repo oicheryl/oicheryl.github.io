@@ -4,11 +4,10 @@ title: "Key Trends Shaping the Future of Infrastructure - Keynote, DIGIT Expo We
 description: "A look at the key trends of cloud native, cloud native AI and open source by Cheryl Hung"
 location: Glasgow
 image: /images/2024-05-29-key-trends-shaping-the-future-of-infrastructure.jpg
-slides: //www.slideshare.net/slideshow/embed_code/key/m04llQ8fCmSI4I
+slides: //www.slideshare.net/slideshow/embed_code/key/nRr0qGvRMwWALv
 tags:
   - Slides
   - "2024"
-  - Meetup
 ---
 
 A flying visit to Glasgow to talk at DIGIT Expo West, Scotland's biggest technology showcase, to share the key trends of cloud native, cloud native AI and open source.
