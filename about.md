@@ -10,7 +10,7 @@ Cheryl Hung brings engineers together to build the future of infrastructure, esp
 
 She founded the Cloud Native London meetup in 2017, and was previously VP Ecosystem at the Cloud Native Computing Foundation, Linux Foundation. 
 
-She built software and teams at Google and Apple, and holds a Masters in Computer Science from the University of Cambridge.
+At Google and Apple Cheryl built software and engineering teams, and she holds a Masters in Computer Science from the University of Cambridge.
 
 # Contact me
 
