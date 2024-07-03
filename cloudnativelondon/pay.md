@@ -7,17 +7,15 @@ description: "Pay Cloud Native London by bank transfer, direct debit, credit or 
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
 
-### Set up monthly sponsorship
-
-Direct debit has much lower transaction fees, so we appreciate you choosing direct debit if you are based in the UK, EU, Sweden, Denmark, Australia, New Zealand, or Canada.
-
-<button class="gocardless" onclick="location.href='https://pay.gocardless.com/AL0005Y5QAX5A6'" type="button">Monthly subscription - Direct debit</button> {% if jekyll.environment == "production" %}
-{% include stripe-monthly.html %}
-{% else %}
-{% include stripe-monthly-test.html %}
-{% endif %}
-
 ### Sponsor individual events
+
+For credit card payments:
+
+{% if jekyll.environment == "production" %}
+{% include stripe.html %}
+{% else %}
+{% include stripe-test.html %}
+{% endif %}
 
 For bank transfers, please share your company name, billing email (e.g. accounts@example.com) and mailing address. We will invoice you on the 15th of the month prior to the event:
 
@@ -28,10 +26,13 @@ For bank transfers, please share your company name, billing email (e.g. accounts
 > **SWIFT/BIC:** SRLGGB2L  
 > **Reference:** On invoice   
 
-For credit card payments:
+### Sponsor every month
 
-{% if jekyll.environment == "production" %}
-{% include stripe.html %}
+Direct debit has much lower transaction fees, so we appreciate you choosing direct debit if you are based in the UK, EU, Sweden, Denmark, Australia, New Zealand, or Canada.
+
+<button class="gocardless" onclick="location.href='https://pay.gocardless.com/AL0005Y5QAX5A6'" type="button">Monthly subscription - Direct debit</button> {% if jekyll.environment == "production" %}
+{% include stripe-monthly.html %}
 {% else %}
-{% include stripe-test.html %}
+{% include stripe-monthly-test.html %}
 {% endif %}
+
