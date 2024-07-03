@@ -22,7 +22,7 @@ redirect_from: /cnl-sponsor
 
 Sponsorship costs £700 (no VAT) per event.
 
-<button onclick="location.href='/cloudnativelondon/sponsorship'" type="button">
+<button onclick="location.href='/cloudnativelondon/pay'" type="button">
          Sponsor event(s)</button>
 
 ## Frequently asked questions
