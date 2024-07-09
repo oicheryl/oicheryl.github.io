@@ -3,7 +3,7 @@ layout: post
 title: "Cloud Native London July 2024: Armakuni, MariaDB PLC, and more"
 description: "Speakers from Armakuni, MariaDB PLC, and more join us at the Cloud Native London meetup July 2024, hosted by Cheryl Hung, Senior Director, Ecosystem at Arm"
 location: London, UK
-image: /images/2024-06-03-cloud-native-london-july-2024.jpeg
+image: /images/2024-07-03-cloud-native-london-july-2024.jpeg
 video: https://www.youtube.com/embed/zuJQInxW1DQ
 tags:
   - Photos
