@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Cloud Native London October 2024: AWS, Mia-Platform, and TrueLayer"
 description: "Speakers from AWS, Mia-Platform, and TrueLayer join us at the Cloud Native London meetup October 2024, hosted by Cheryl Hung, Senior Director, Ecosystem at Arm"
