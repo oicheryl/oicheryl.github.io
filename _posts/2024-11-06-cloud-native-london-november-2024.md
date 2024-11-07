@@ -4,7 +4,7 @@ title: "Cloud Native London November 2024: Amazon Web Service and more"
 description: "Speakers from Amazon Web Service and more join us at the Cloud Native London meetup November 2024, hosted by Cheryl Hung, Senior Director, Ecosystem at Arm"
 location: London, UK
 image: /images/2024-11-06-cloud-native-london-november-2024.jpeg
-video: https://www.youtube.com/embed/iDYMmdqiCE8
+video: https://www.youtube.com/embed/o9nwpPdLOeI
 tags:
   - Photos
   - Video
@@ -12,8 +12,7 @@ tags:
   - "2024"
 ---
 
-Two speakers from Amazon Web Service and more joined us at the November Cloud Native London meetup at the Just Eat offices. Unfortunately, due to technical issues the YouTube/Twitch livestreams and recordings of the talks were not available. 
-
+Two speakers from Amazon Web Service and more joined us at the November Cloud Native London meetup at the Just Eat offices.
 ### Overview
 
 Kicking off our evening was Roman Shmyhelskyi talking about the Rocky Road to Microservices. He talked about how: 
