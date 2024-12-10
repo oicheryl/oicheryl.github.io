@@ -4,7 +4,7 @@ title: About
 description: "Cheryl Hung's biography, photo and contact details"
 ---
 
-<img src="/images/headshot.jpeg" alt="Cheryl Hung, Arm" class="about-image"/>
+<img src="/images/headshot.jpeg" alt="Cheryl Hung, Arm" class="about-image" width="300"/>
 
 Cheryl Hung is Senior Director and Head of Ecosystem at Arm. She is also a startup advisor and thought leader in open source and ecosystem strategy.
 
