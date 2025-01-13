@@ -26,6 +26,10 @@ Benefits:
 
 Definitely! [Request a speaking slot.](/cloudnativelondon/speak)
 
+#### Can I download this information as a PDF?
+
+[Sponsorship brochure](/cloudnativelondon/sponsorshippdf)
+
 #### Can we host an event at our office?
 
 If your office can host 50-100 and you can commit to hosting on the first Wednesday of every month, email organisers@cloudnativelon.com.
