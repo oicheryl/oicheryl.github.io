@@ -7,7 +7,6 @@ slides: //www.slideshare.net/slideshow/embed_code/key/vhJZg7Ru5NLM4c
 tags:
   - Slides
   - "2025"
-publish: false
 ---
 I thoroughly enjoyed this panel with Mich (Mia-platform) and Tolis (AWS), discussing the "Kubernetes moment for AI". Kubernetes was transformative for the cloud computing industry. It brought standardization and interoperability, and creating a whole ecosystem of startup companies and investment. Could we do it again, through open standards, tech and community?
 
