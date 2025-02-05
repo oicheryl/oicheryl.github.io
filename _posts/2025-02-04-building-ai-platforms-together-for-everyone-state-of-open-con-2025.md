@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building AI platforms together, for everyone - State of Open Con 2025"
+title: "Building AI platforms together, for everyone: State of Open Con"
 description: "Cheryl Hung, Sr Director, Head of Ecosystem at Arm, talks about the Kubernetes moment for AI."
 image: /images/2025-02-04-building-ai-platforms-together-for-everyone-state-of-open-con-2025.jpg
 slides: //www.slideshare.net/slideshow/embed_code/key/vhJZg7Ru5NLM4c
