@@ -3,13 +3,12 @@ layout: post
 title: "Building AI platforms together, for everyone - State of Open Con 2025"
 description: "Cheryl Hung, Sr Director, Head of Ecosystem at Arm, talks about the Kubernetes moment for AI."
 image: /images/2025-02-04-building-ai-platforms-together-for-everyone-state-of-open-con-2025.jpg
-slides: //www.slideshare.net/slideshow/embed_code/key/3gmZL6ZS77Lene
+slides: //www.slideshare.net/slideshow/embed_code/key/vhJZg7Ru5NLM4c
 tags:
   - Slides
-  - "2024"
+  - "2025"
 publish: false
 ---
-
 I thoroughly enjoyed this panel with Mich (Mia-platform) and Tolis (AWS), discussing the "Kubernetes moment for AI". Kubernetes was transformative for the cloud computing industry. It brought standardization and interoperability, and creating a whole ecosystem of startup companies and investment. Could we do it again, through open standards, tech and community?
 
 AI platform builders have a choice whether to use closed source or open source as the foundation. Closed source platforms provide many aspects of AI platforms, giving you more time to market to build products.
