@@ -9,9 +9,7 @@ description: "Request to speak at or sponsor Cloud Native London."
 </div>
 <div class="hero-content-text">
   <div class="hero-text">
-    <h3>One of the largest and most active developer communities in London, with over 8000 members.</h3>
-
-    I host meetups on the first Wednesday of every month, with speakers booked until 2025.
+    <h3>One of the largest and most active developer communities in London, with monthly meetups for over 9000 members.</h3>
   </div>
 </div>
 </div>
@@ -22,12 +20,12 @@ description: "Request to speak at or sponsor Cloud Native London."
 
 {% include product.html title="Sponsor" subtitle="Partner with Cloud Native London" image="product-images/sponsor-cloud-native-london.png" url="/cloudnativelondon/sponsor" %}
 
-{% include product.html title="Chat" subtitle="Meet 250+ London engineers" image="product-images/chat-cloud-native-london.jpg" url="/cnl-slack" %}
+{% include product.html title="Promote" subtitle="Share your events and offers" image="product-images/promote.png" url="/cloudnativelondon/promote" %}
 
 {% include product.html title="Catch up" subtitle="Watch videos from past events" image="https://i.ytimg.com/vi/YzsKp6Je8eY/mqdefault.jpg" url="/archive/meetup" %}
 
-{% include product.html title="Promote" subtitle="Share your events and offers" image="product-images/promote.png" url="/cloudnativelondon/promote" %}
-
 {% include product.html title="Attend" subtitle="First Wednesday of each month" image="product-images/attend-cloud-native-london.jpg" url="https://www.meetup.com/Cloud-Native-London/" %}
+
+{% include product.html title="Chat" subtitle="Meet 250+ London engineers" image="product-images/chat-cloud-native-london.jpg" url="/cnl-slack" %}
 
 </div>
