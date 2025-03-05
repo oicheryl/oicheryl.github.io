@@ -14,6 +14,8 @@ tags:
 
 Three speakers fromAkbank and LiveWyer Ltd joined us at the February Cloud Native London meetup at the Just Eat offices, as well as via the YouTube/Twitch livestreams. 
 
+We are immensely grateful to [HAProxy](https://www.haproxy.com/) and [DoiT](https://www.doit.com/) for their generous support and sponsorship.
+
 ### Overview
 
 Kicking off our evening was Metin Sarıkaya from Akbank talking about [From Legacy to Lakehouse: Redefining Data at Scale](https://www.youtube.com/live/m_s33CUGqYw?si=v3NEQACeS9rZfrnt&t=1285)(starting at 21:25). He talked about: 
