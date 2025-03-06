@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Cloud Native London March 2025: MicroStrate, Nutanix, and Just Eat Takeaway"
 description: "Speakers from MicroStrate, Nutanix, and Just Eat Takeaway join us at the Cloud Native London meetup March 2025, hosted by Cheryl Hung, Senior Director, Ecosystem at Arm"
