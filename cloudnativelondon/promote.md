@@ -4,7 +4,7 @@ title: Promote
 description: "Request to share your events and offers at Cloud Native London."
 ---
 
-You are welcome to share relevant events and offers with the Cloud Native London group. They will appear in blog posts and be emailed to the ~6000 group members.
+You are welcome to share relevant events and offers with the Cloud Native London group. They will appear in blog posts and be emailed to the 9500 group members.
 
 To help cover running costs, you will need to make a donation of £250 (no VAT), payable by debit/credit card.
 
