@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Choose payment method
-description: "Pay Cloud Native London by bank transfer, direct debit, credit or debit card."
+description: "Pay Cloud Native London by bank transfer or card."
 ---
 
 <!-- Load Stripe.js on your website. -->
