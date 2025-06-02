@@ -4,6 +4,7 @@ title: "Building the Customer Identity Community Together: AuthCon at apidays Ne
 description: "Cheryl Hung, Sr Director, Infrastructure Ecosystem at Arm, talks about the community opportunities for CIAM."
 image: /images/2025-05-14-building-the-customer-identity-community-together.jpeg
 slides: //www.slideshare.net/slideshow/embed_code/key/1NWNOwrcfFQmBZ
+video: https://www.youtube.com/embed/KBLuwGCunIM
 location: New York
 tags:
   - Slides
