@@ -25,7 +25,7 @@ Benefits:
 
 #### Can we send a speaker?
 
-Definitely! [Request a speaking slot.](/cloudnativelondon/speak)
+Definitely! You can [request the next speaking slot](/cloudnativelondon/speak), or Cheryl will arrange a speaking slot at your sponsored event as preferred.
 
 #### Can I download this information as a PDF?
 
