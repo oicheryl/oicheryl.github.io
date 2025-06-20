@@ -13,6 +13,7 @@ redirect_from: /cnl-sponsor
 Sponsorship costs £800 per event (no VAT).
 
 Benefits:
+* A speaking slot at the event of your choosing, subject to capacity.
 * 1 minute introduction at the beginning of the event by your representative or Cheryl.
 * Your logo and company information in emails to group members and blog posts
 * Sponsors who commit for 6+ months are listed on [https://www.meetup.com/Cloud-Native-London​](https://www.meetup.com/Cloud-Native-London).
