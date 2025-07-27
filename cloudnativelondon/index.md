@@ -9,7 +9,7 @@ description: "Request to speak at or sponsor Cloud Native London."
 </div>
 <div class="hero-content-text">
   <div class="hero-text">
-    <h3>One of the largest and most active developer communities in London, with monthly meetups for over 9000 members.</h3>
+    <h3>Since 2017, our monthly events have brought together 10k members, primarily senior DevOps / platform engineers and technical architects.</h3>
   </div>
 </div>
 </div>
