@@ -9,7 +9,7 @@ description: "Request to speak at or sponsor Cloud Native London."
 </div>
 <div class="hero-content-text">
   <div class="hero-text">
-    <h3>Since 2017, our monthly events have brought together 10k members, primarily senior DevOps / platform engineers and technical architects.</h3>
+    <h3>Since 2017, our monthly events have brought together 10k members, primarily senior DevOps engineers, platform engineers and technical architects.</h3>
   </div>
 </div>
 </div>
