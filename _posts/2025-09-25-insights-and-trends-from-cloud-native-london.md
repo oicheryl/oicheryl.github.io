@@ -3,7 +3,7 @@ layout: post
 title: "10k and counting: Insights and Trends from Cloud Native London - Scotsoft"
 description: "Cheryl Hung reviews cloud, open source and AI trends and insights from running Cloud Native London."
 image: /images/2025-09-25-insights-and-trends-from-cloud-native-london.png
-slides: //www.slideshare.net/slideshow/embed_code/key/l7xalnwWZORX9I
+slides: //www.slideshare.net/slideshow/embed_code/key/7dZSwVy9rjtf9n
 location: Edinburgh, UK
 tags:
   - Slides
