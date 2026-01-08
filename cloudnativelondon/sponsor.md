@@ -10,7 +10,7 @@ redirect_from: /cnl-sponsor
 
 [Cloud Native London](https://www.meetup.com/Cloud-Native-London/) is a strong, open, diverse developer community dedicated to the Cloud Native platform and technologies in London. Founded by Cheryl in 2017, it has over 9000 members and monthly events with 100 attendees, including streaming to Youtube and Twitch.
 
-Sponsorship costs £800 per event (no VAT).
+Sponsorship costs £850 per event (no VAT).
 
 Benefits:
 * A speaking slot at the event of your choosing, subject to capacity.
