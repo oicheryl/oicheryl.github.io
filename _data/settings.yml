@@ -38,7 +38,7 @@ post_navigation:
   type: category
 
   # Available positions are 'top', and 'bottom'.
-  postion: ['top', 'bottom']
+  position: ['top', 'bottom']
 
   # Text to use for the previous post link. `{category}` and `{title}` will be
   # replaced as expected. If `type` is `site` {category} with be `site.title`.

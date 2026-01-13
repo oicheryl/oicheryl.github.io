@@ -10,7 +10,7 @@ Cheryl Hung is a tech executive and software engineer with 15 years of experienc
 
 Her recent roles include Sr Director at Arm and VP at the Cloud Native Computing Foundation, responsible for over 150 organisations including Apple, Airbnb, CERN, Intuit and Spotify. She managed engineering teams at Apple and was a software engineer at Google.
 
-Cheryl founded the Cloud Native London meetup in 2017 and grew it to over 9000 members. She holds a Masters degree in Computer Science from the University of Cambridge.
+Cheryl founded the Cloud Native London meetup in 2017 and grew it to 10k members. She holds a Masters degree in Computer Science from the University of Cambridge.
 
 # Contact me
 

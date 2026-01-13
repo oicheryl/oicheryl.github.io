@@ -48,7 +48,7 @@ With many thanks to our sponsors this month:
 
 ## Cloud Native London November
 
-Our next meetup will be on Wednesday 1st October, when we'll be joined by speakers from FusionAuth, Cast AI, and Meghdo! [RSVP and save the date now!](https://www.meetup.com/cloud-native-london/events/310408493/). 
+Our next meetup will be on Wednesday 1st November, when we'll be joined by speakers from FusionAuth, Cast AI, and Meghdo! [RSVP and save the date now!](https://www.meetup.com/cloud-native-london/events/310408493/). 
 
 Stay safe, stay healthy, and see you in a month!
 

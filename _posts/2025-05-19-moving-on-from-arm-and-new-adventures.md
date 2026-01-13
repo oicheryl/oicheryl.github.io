@@ -2,6 +2,7 @@
 layout: post
 title: "Moving on from Arm, and new adventures"
 description: "An update to Cheryl Hung work and life plans."
+location: Cambridge, UK
 image: /images/2025-05-19-moving-on-from-arm-and-new-adventures.jpg
 tags:
   - "2025"
