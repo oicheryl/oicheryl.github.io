@@ -16,10 +16,10 @@ description: "Request to speak at or sponsor Cloud Native London."
 
 <div class="products">
 
-{% include product.html title="Speak" subtitle="Next available slots from May" image="product-images/speak-at-cloud-native-london.jpg" url="/cloudnativelondon/speak" %}
+{% include product.html title="Speak at Cloud Native London" image="product-images/speak-at-cloud-native-london.jpg" url="/cloudnativelondon/speak" %}
 
-{% include product.html title="Sponsor" subtitle="Partner with Cloud Native London" image="product-images/sponsor-cloud-native-london.png" url="/cloudnativelondon/sponsor" %}
+{% include product.html title="Sponsor our events" image="product-images/sponsor-cloud-native-london.png" url="/cloudnativelondon/sponsor" %}
 
-{% include product.html title="Promote" subtitle="Share your events and offers" image="product-images/promote.png" url="/cloudnativelondon/promote" %}
+{% include product.html title="Promote your message to our audience" image="product-images/promote.png" url="/cloudnativelondon/promote" %}
 
 </div>
