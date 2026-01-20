@@ -4,9 +4,11 @@ title: "Vibe Coding Auth Without Melting Down! - iSAQB Software Architecture Gat
 description: "Building CIAM is a fine balance between user experience, security and regulatory standards and scalability. Can vibe coding handle the challenge?"
 image: /images/2025-11-26-vibe-coding-auth-without-melting-down.png
 slides: //www.slideshare.net/slideshow/embed_code/key/2pEA3lHBldq1xz
+video: https://www.youtube.com/embed/dlEKLgBZVf0
 location: Berlin, Germany
 tags:
   - Slides
+  - Video
   - "2025"
 ---
 
