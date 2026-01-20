@@ -5,14 +5,9 @@ description: Frequently asked questions for sponsors at Cloud Native London
 redirect_from: /cnl-sponsor
 ---
 
-> "At Sysdig, developers are an important audience and we know the way to reach them is through high quality educational content. The Cloud Native London meetup is a great audience, events always run smoothly and need very little input from us. What we really appreciate about Cheryl and Cloud Native London is the consistency of monthly meetups, which allows us to plan ahead and commit to a whole year upfront. It's been a great partnership and we're looking forward to sponsoring next year."
-> Jonthan Munn, Senior Field & Channel Marketing Manager, Sysdig
+[Cloud Native London](https://www.meetup.com/Cloud-Native-London/) is a strong, open, diverse developer community dedicated to the Cloud Native platform and technologies in London. Founded by Cheryl in 2017, it has over 9000 members and monthly events with 100 attendees, including streaming to Youtube and LinkedIn.
 
-[Cloud Native London](https://www.meetup.com/Cloud-Native-London/) is a strong, open, diverse developer community dedicated to the Cloud Native platform and technologies in London. Founded by Cheryl in 2017, it has over 9000 members and monthly events with 100 attendees, including streaming to Youtube and Twitch.
-
-Sponsorship costs £850 per event (no VAT).
-
-Benefits:
+Sponsorship costs £850 per event (no VAT). Benefits:
 * A speaking slot at the event of your choosing, subject to capacity.
 * 1 minute introduction at the beginning of the event by your representative or Cheryl.
 * Your logo and company information in emails to group members and blog posts
@@ -20,6 +15,10 @@ Benefits:
 
 <button onclick="location.href='/cloudnativelondon/pay'" type="button">
          Sponsor event(s)</button>
+
+> "At Sysdig, developers are an important audience and we know the way to reach them is through high quality educational content. The Cloud Native London meetup is a great audience, events always run smoothly and need very little input from us. What we really appreciate about Cheryl and Cloud Native London is the consistency of monthly meetups, which allows us to plan ahead and commit to a whole year upfront. It's been a great partnership and we're looking forward to sponsoring next year."
+> Jonthan Munn, Senior Field & Channel Marketing Manager, Sysdig
+
 
 ## Frequently asked questions
 
