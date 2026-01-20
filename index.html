@@ -16,6 +16,10 @@ layout: page
   <a class="divLink" href="/about">link</a>
 </article>
 
+<div class="text-center">
+<h2><a href="/archive">More posts ></a></h2>
+</div>
+
 <div class="landingtiles">
 {% for post in paginator.posts %}
   <div class="landingtile">{% include post-summary.html post=post %}</div>
@@ -23,6 +27,3 @@ layout: page
 </div>
 {% include most-popular.html %}
 
-<div class="text-center">
-<h2><a href="/archive">View Archive ></a></h2>
-</div>
