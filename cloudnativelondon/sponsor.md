@@ -52,7 +52,7 @@ Yes! We work with one recruitment agency at a time and currently are open to rec
 
 #### Can we share our event with your group?
 
-[Promote your events and offers](/cloudnativelondon/share)
+[Promote your events and offers](/cloudnativelondon/promote)
 
 #### What if I have further questions?
 
