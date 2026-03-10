@@ -17,6 +17,6 @@ Cheryl founded the Cloud Native London meetup in 2017 and grew it to 10k members
 I am available in a personal capacity for:
 
 1. Keynote speaker/panelist/host for events
-2. Startup advising
+2. DevRel contract work - growing the tech community, especially for platform and infrastructure engineers
 
 <script type="text/javascript" src="https://form.jotformeu.com/jsform/92682794245368"></script>
