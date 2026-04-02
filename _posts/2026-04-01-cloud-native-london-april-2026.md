@@ -16,6 +16,8 @@ Two speakers from Cloudsmith and Testkube joined us at the April Cloud Native Lo
 
 We are immensely grateful to [Testkube](https://testkube.io/), and [TechShack](https://www.tech-shack.co/) for their generous support and sponsorship. 
 
+In addition, [Orkes](https://orkes.io/) are running a free meetup next week in London on 9th April, and I think the Cloud Native London community would get a lot out of it! They're actively looking to grow their developer community in the UK so this is a great opportunity to connect with them. The event is [Taming the Beast: Hardening AI Agents for the Real World](https://luma.com/q9g0ozqm), sign up for free at: [https://luma.com/q9g0ozqm](https://luma.com/q9g0ozqm)
+
 ### Overview
 Kicking off our evening was Meghan McGowan from Cloudsmith explaining [From "Trust Then Verify" to "Verify Then Trust": Securing the AI-Accelerated Software Supply Chain](https://www.youtube.com/live/_iKQ8JYiEgU?si=QPO2EASFsje7IdTV&t=511)(starting at 8:31). (unfortunately we had a technical issue with the audio for the first few minutes of her talk). Her takeaways explained that:
 * Visibility without enforcement is just a better view of your risk.	
