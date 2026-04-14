@@ -16,7 +16,7 @@ description: "Pay Cloud Native London by bank transfer or card."
 {% endif %}
 
 
-### Pay by bank transfer
+### Pay by invoice/bank transfer
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/261034786613054"></script>
 
