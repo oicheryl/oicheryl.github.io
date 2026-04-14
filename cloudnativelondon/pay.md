@@ -18,13 +18,7 @@ description: "Pay Cloud Native London by bank transfer or card."
 
 ### Pay by bank transfer
 
-> **Payee name:** Cloud Native London Ltd  
-> **Sort code:** 60-83-71  
-> **Account number:** 57049586  
-> **IBAN:** GB33SRLG60837157049586  
-> **SWIFT/BIC:** SRLGGB2L  
-> **Reference:** On invoice   
-
+<script type="text/javascript" src="https://form.jotform.com/jsform/261034786613054"></script>
 
 ### Direct debit (monthly sponsorship)
 
