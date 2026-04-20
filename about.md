@@ -8,7 +8,7 @@ description: "Cheryl Hung's biography, photo and contact details"
 
 Cheryl Hung is the founder and CEO of Cloud Native London (http://cloudnativelon.com), a strong, open, diverse developer community of 10k cloud, data and AI engineers. 
 
-Previously a software engineer/manager at Google and Apple, she was VP Ecosystem at the Linux Foundation (CNCF) and Sr Director at Arm, driving adoption of new technologies among the developer community. She holds a Masters degree in Computer Science from the University of Cambridge.
+Previously a software engineer and manager at Google and Apple, Cheryl was VP at the Linux Foundation (CNCF) and Sr Director at Arm, driving adoption of new technologies into the developer ecosystem. She holds a Masters degree in Computer Science from the University of Cambridge.
 
 # Contact me
 
