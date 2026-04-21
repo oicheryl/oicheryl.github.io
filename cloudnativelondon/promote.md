@@ -4,9 +4,7 @@ title: Promote
 description: "Request to share your events and offers at Cloud Native London."
 ---
 
-You are welcome to share relevant events and offers with Cloud Native London. Your promotion will be emailed to our 10k members twice, once before and once after a meetup, and be displayed in event blog posts.
-
-You will need to make a donation of £300 (no VAT), payable by debit/credit card.
+You are welcome to share relevant events and offers with Cloud Native London. Promotion costs £300, and your message will be shared to our 10k members 2x in our Wednesday newsletters.
 
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
@@ -16,6 +14,8 @@ You will need to make a donation of £300 (no VAT), payable by debit/credit card
 {% else %}
 {% include stripe-donate-test.html %}
 {% endif %}
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/261034786613054"></script>
 
 Once received, we will follow up on your content to share. Here are past examples:
 
