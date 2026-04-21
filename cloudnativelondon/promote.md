@@ -6,9 +6,6 @@ description: "Request to share your events and offers at Cloud Native London."
 
 You are welcome to share relevant events and offers with our community. Promotion costs £300, and your message will be shared twice in our Wednesday newsletters to 10k developers.
 
-<!-- Load Stripe.js on your website. -->
-<!-- <script src="https://js.stripe.com/v3"></script> -->
-
 {% if jekyll.environment == "production" %}
 {% include stripe-donate.html %}
 {% else %}
